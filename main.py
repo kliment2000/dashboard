@@ -97,7 +97,3 @@ def update_bar(measure, point):
             .mean(measure)[[measure]]
             .sort_values(measure, ascending=False)
             .head(15))
-
-
-if __name__ == '__main__':
-    app.run(debug=True)
