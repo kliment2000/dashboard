@@ -1,5 +1,5 @@
 ﻿dash==2.14.1
 plotly==5.18.0
-pandas==2.0.1
-dash-draggable==0.1.2
+pandas
+dash-draggable
 gunicorn==20.0.4
